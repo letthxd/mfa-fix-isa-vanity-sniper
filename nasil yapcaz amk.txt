@@ -1,0 +1,2 @@
+mal orospu slowun kodunu nasıl çalıştırıcaz diye soruyorsunuz endpoint.js deki configleri doldurun index.js dede aynı mfadada aynı sonra mfa.bat
+açın sonra index.bat açın 2 indexide açıyor zaten biri farklı api endpointten istek atıyor güle güle kullanın abınızede selamımı ıletın
