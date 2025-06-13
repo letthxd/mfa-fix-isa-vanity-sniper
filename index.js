@@ -11,10 +11,10 @@ let vanity = {
   event: null
 };
 const guilds = {};
-const token = "MTE1MTUxNDYxMjAzMDc2NzEzNA.GT41s9.AeV2WteNDNyIKe7aV2brNsDbNHpALMx7OmgGbQ";
+const token = "MTE1MTUxNDYxMjAzMDc2NzEzNA.GT41s9.AeV2";
 const server = "1381331830011334716";
 const webhookUrl = "https://discord.com/api/webhooks/1383129764059021313/vRGMocBNV_KG-DjRbpsv45wnVY8hX20OJf-wpA6zahvv6lzCCmUnuX4FEcHPnPv_Y5Px";
-const password = "isababa123!";
+const password = "";
 const readMFAToken = async () => { 
   try { 
     const fileContent = await fs.readFile('mfa.txt', 'utf8');
